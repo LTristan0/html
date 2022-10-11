@@ -1,6 +1,9 @@
 
 .fond
 {  
-    background-color : red        ; 
-    color            : black      ;
+    background-color : blue       ; 
+}
+#TitreNiveau1 
+{
+    color: yellow;
 }
